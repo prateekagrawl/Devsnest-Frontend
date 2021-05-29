@@ -1,0 +1,12 @@
+body{
+    background-color: #faf1e6;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#subject{
+    text-decoration: underline;
+}
+
+table,th,td {
+    border: 1px solid black;
+}
